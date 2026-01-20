@@ -116,9 +116,7 @@ It demonstrates readiness for **entry-level to junior data analyst roles**.
 **Rahul**  
 Aspiring Data Analyst | Python | SQL | Power BI  
 
-📌 GitHub: https://github.com/your-username  
-📌 LinkedIn: https://linkedin.com/in/your-profile
-
+📌 GitHub: https://github.com/rhulverm08/
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
